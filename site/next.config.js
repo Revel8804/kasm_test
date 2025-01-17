@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Revel Technologies',
+    description: 'The official store for Revel supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://revel8804.github.io/kasm_test/',
+    contactUrl: 'https://github.com/Revel8804/kasm_test/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
